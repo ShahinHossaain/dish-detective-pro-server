@@ -2,7 +2,7 @@
     {
       "id": 1,
       "chef_name": "Samantha Smith",
-      "chef_photo": "https://example.com/samantha-smith.jpg",
+      "chef_photo": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=600",
       "years_of_experience": 10,
       "number_of_recipes": 53,
       "likes": 5000,
@@ -10,7 +10,7 @@
       "recipes": [
         {
           "recipe_name": "Grilled Salmon with Lemon and Dill",
-          "recipe_photo": "https://example.com/grilled-salmon.jpg",
+          "recipe_photo": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=600",
           "ingredients": [
             "4 salmon fillets",
             "1/4 cup fresh lemon juice",
@@ -63,7 +63,7 @@
     {
         "id": 2,
         "chef_name": "Carlos Hernandez",
-        "chef_photo": "https://example.com/carlos-hernandez.jpg",
+        "chef_photo": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=600",
         "years_of_experience": 7,
         "number_of_recipes": 45,
         "likes": 3000,
