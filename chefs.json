@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "chef_name": "Samantha Smith",
+      "chef_photo": "https://example.com/samantha-smith.jpg",
+      "years_of_experience": 10,
+      "number_of_recipes": 53,
+      "likes": 5000,
+      "bio": "Samantha Smith is a renowned chef with over 10 years of experience. She specializes in creating healthy and delicious recipes using locally sourced ingredients.",
+      "recipes": [
+        {
+          "recipe_name": "Grilled Salmon with Lemon and Dill",
+          "recipe_photo": "https://example.com/grilled-salmon.jpg",
+          "ingredients": [
+            "4 salmon fillets",
+            "1/4 cup fresh lemon juice",
+            "1/4 cup olive oil",
+            "2 tablespoons chopped fresh dill",
+            "1/2 teaspoon salt"
+          ],
+          "cooking_method": "1. Preheat grill to medium-high heat. \n2. In a small bowl, whisk together lemon juice, olive oil, dill, and salt. \n3. Brush the salmon fillets with the lemon-dill mixture. \n4. Grill the salmon for about 6-8 minutes per side, or until cooked through. \n5. Serve hot with your favorite sides."
+        },
+        {
+          "recipe_name": "Roasted Vegetable Salad with Quinoa",
+          "recipe_photo": "https://example.com/roasted-vegetable-salad.jpg",
+          "ingredients": [
+            "1 cup quinoa",
+            "2 cups water",
+            "2 red bell peppers, chopped",
+            "1 yellow squash, sliced",
+            "1 zucchini, sliced",
+            "1/4 cup olive oil",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "4 cups baby spinach",
+            "1/4 cup crumbled feta cheese"
+          ],
+          "cooking_method": "1. Preheat oven to 400°F. \n2. Rinse quinoa in cold water and drain. \n3. In a saucepan, bring 2 cups of water to a boil. Add quinoa and reduce heat to low. Cover and simmer for 15-20 minutes, until water is absorbed and quinoa is cooked. \n4. In a bowl, toss together chopped bell peppers, sliced squash, and sliced zucchini with olive oil, salt, and black pepper. \n5. Spread the vegetables on a baking sheet and roast in the oven for 20-25 minutes, until tender and slightly browned. \n6. In a large bowl, combine cooked quinoa, roasted vegetables, baby spinach, and crumbled feta cheese. \n7. Serve warm or cold."
+        },
+        {
+          "recipe_name": "Spicy Chicken and Rice",
+          "recipe_photo": "https://example.com/spicy-chicken-rice.jpg",
+          "ingredients": [
+            "1 pound boneless, skinless chicken breasts, cubed",
+            "1 tablespoon olive oil",
+            "1 onion, chopped",
+            "3 cloves garlic, minced",
+            "1 red bell pepper, chopped",
+            "1 green bell pepper, chopped",
+            "1 jalapeno pepper, seeded and chopped",
+            "1 teaspoon cumin",
+            "1 teaspoon chili powder",
+            "1/2 teaspoon salt",
+            "1/4 teaspoon black pepper",
+            "1 cup uncooked long-grain white rice",
+            "2 cups chicken broth"
+          ],
+          "cooking_method": "1. Preheat oven to 400°F. \n2. Rinse quinoa in cold water and drain. \n3. In a saucepan, bring 2 cups of water to a boil. Add quinoa and reduce heat to low. Cover and simmer for 15-20 minutes, until water is absorbed and quinoa is cooked. \n4. In a bowl, toss together chopped bell peppers, sliced squash, and sliced zucchini with olive oil, salt, and black pepper. \n5. Spread the vegetables on a baking sheet and roast in the oven for 20-25 minutes, until tender and slightly browned. \n6. In a large bowl, combine cooked quinoa, roasted vegetables, baby spinach, and crumbled feta cheese. \n7. Serve warm or cold."
+          }
+        ]
+    },
+
+    {
+        "id": 2,
+        "chef_name": "Carlos Hernandez",
+        "chef_photo": "https://example.com/carlos-hernandez.jpg",
+        "years_of_experience": 7,
+        "number_of_recipes": 45,
+        "likes": 3000,
+        "bio": "Carlos Hernandez is a passionate chef with over 7 years of experience. He is known for his bold and unique flavor combinations that are sure to impress any palate.",
+        "recipes": [
+          {
+            "recipe_name": "Honey Mustard Glazed Salmon",
+            "recipe_photo": "https://example.com/honey-mustard-salmon.jpg",
+            "ingredients": [
+              "4 salmon fillets",
+              "2 tablespoons dijon mustard",
+              "2 tablespoons honey",
+              "2 tablespoons olive oil",
+              "1 tablespoon lemon juice",
+              "1/2 teaspoon garlic powder",
+              "1/2 teaspoon onion powder",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper"
+            ],
+            "cooking_method": "1. Preheat oven to 375°F. \n2. In a small bowl, whisk together dijon mustard, honey, olive oil, lemon juice, garlic powder, onion powder, salt, and black pepper. \n3. Place the salmon fillets in a baking dish and brush the honey mustard mixture over the top of each fillet. \n4. Bake the salmon for about 15-20 minutes, or until cooked through. \n5. Serve hot with your favorite sides."
+          },
+          {
+            "recipe_name": "Mediterranean Quinoa Salad",
+            "recipe_photo": "https://example.com/mediterranean-quinoa-salad.jpg",
+            "ingredients": [
+              "1 cup quinoa",
+              "2 cups water",
+              "1 can (15 ounces) chickpeas, drained and rinsed",
+              "1 cup cherry tomatoes, halved",
+              "1 cucumber, chopped",
+              "1 red onion, chopped",
+              "1/2 cup kalamata olives, sliced",
+              "1/4 cup crumbled feta cheese",
+              "2 tablespoons olive oil",
+              "1 tablespoon red wine vinegar",
+              "1 clove garlic, minced",
+              "1/2 teaspoon dried oregano",
+              "1/2 teaspoon salt",
+              "1/4 teaspoon black pepper"
+            ],
+            "cooking_method": "1. Rinse quinoa in cold water and drain. \n2. In a saucepan, bring 2 cups of water to a boil. Add quinoa and reduce heat to low. Cover and simmer for 15-20 minutes, until water is absorbed and quinoa is cooked. \n3. In a large bowl, combine cooked quinoa, chickpeas, cherry tomatoes, cucumber, red onion, kalamata olives, and feta cheese. \n4. In a small bowl, whisk together olive oil, red wine vinegar, garlic, oregano, salt, and black pepper. \n5. Pour the dressing over the quinoa salad and toss to combine. \n6. Serve cold or at room temperature."
+          },
+          {
+            "recipe_name": "Spicy Shrimp Stir Fry",
+            "recipe_photo": "https://example.com/spicy-shrimp-stir-fry.jpg",
+            "ingredients": [
+              "1 pound large shrimp, peeled and deveined",
+              "2 tablespoons vegetable oil",
+              "1 onion, chopped",
+              "2 cloves garlic, minced"
+            ],
+            "cooking_method": "1. Rinse quinoa in cold water and drain. \n2. In a saucepan, bring 2 cups of water to a boil. Add quinoa and reduce heat to low. Cover and simmer for 15-20 minutes, until water is absorbed and quinoa is cooked. \n3. In a large bowl, combine cooked quinoa, chickpeas, cherry tomatoes, cucumber, red onion, kalamata olives, and feta cheese. \n4. In a small bowl, whisk together olive oil, red wine vinegar, garlic, oregano, salt, and black pepper. \n5. Pour the dressing over the quinoa salad and toss to combine. \n6. Serve cold or at room temperature."
+            
+            }
+        ]
+    } 
+        
+]
+
+
+
+  
